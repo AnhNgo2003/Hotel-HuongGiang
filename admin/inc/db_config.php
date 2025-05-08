@@ -1,8 +1,8 @@
 <?php 
 
-  $hname = 'localhost';
+  $hname = 'db';
   $uname = 'root';
-  $pass = '';
+  $pass = 'root';
   $db = 'khachsan';
 
   $con = mysqli_connect($hname,$uname,$pass,$db);
