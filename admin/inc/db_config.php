@@ -1,9 +1,9 @@
 <?php 
 
-  $hname = 'db';
-  $uname = 'root';
-  $pass = 'root';
-  $db = 'khachsan';
+  $hname = '103.147.35.60';
+  $uname = 'hotel';
+  $pass = 'hotel@123';
+  $db = 'hotel';
 
   $con = mysqli_connect($hname,$uname,$pass,$db);
 
